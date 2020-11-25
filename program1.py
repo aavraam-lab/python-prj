@@ -33,9 +33,3 @@ else:
 print('You did a total of ',userActions,' actions. Perfect job!')
 print('Goodbye, ', getpass.getuser(), ' || Program exiting...')
 
-
-
-
-
-
-
